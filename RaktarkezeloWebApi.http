@@ -1,0 +1,6 @@
+@RaktarkezeloWebApi_HostAddress = http://localhost:5069
+
+GET {{RaktarkezeloWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
